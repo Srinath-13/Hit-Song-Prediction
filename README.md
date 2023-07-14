@@ -1,5 +1,5 @@
 # Hit-Song-Prediction
-![image](https://github.com/Srinath-13/Hit-Song-Prediction/assets/79263421/e7bf0e98-51aa-41cc-ab63-37d199ac3225)
+![image](https://github.com/Srinath-13/Hit-Song-Prediction/assets/79263421/7af2a8a2-ec42-4e5c-8a39-a8d405f13f6f)
 
 Hit Song Science uses machine learning tools to predict a song's success before publication. Hit 
 Song Science may help artists and producers understand their audience and write songs that will 
@@ -21,18 +21,19 @@ dataset can be used to create a classification model that predicts whether or no
 'decade'.
 
 ## Methodology
-![image](https://github.com/Srinath-13/Hit-Song-Prediction/assets/79263421/5adb2415-8375-48d4-983e-91341100a793)
+![image](https://github.com/Srinath-13/Hit-Song-Prediction/assets/79263421/f5b236a3-eec8-4388-95fc-f4ae272bf3a7)
 
 ## Results
 ### Best Standalone Model
-![image](https://github.com/Srinath-13/Hit-Song-Prediction/assets/79263421/96dc56b5-2015-4dac-8d82-0ed9433318be)
+![image](https://github.com/Srinath-13/Hit-Song-Prediction/assets/79263421/17e971d7-f1ab-41bf-92d0-b5312a656ca3)
+
 
 From the above ROC-AUC plot, it is concluded that Random Forest, SVM and K-NN are reliable 
 and good performing models. These models alone will be considered for ensemble learning in the 
 forthcoming steps.
 
 ### Best Ensemble Model
-![image](https://github.com/Srinath-13/Hit-Song-Prediction/assets/79263421/42b12cb5-eb68-4b26-a6a6-d7f4a3462d99)
+![image](https://github.com/Srinath-13/Hit-Song-Prediction/assets/79263421/b959d66f-88cf-4d91-abbd-94b06e056c5a)
 
 Out of all these models, Voting Classifier with Soft Voting with SVM, KNN and RF (with its 
 best hyper parameters) is chosen to be the best classifier owing to its highest score and relatively 
