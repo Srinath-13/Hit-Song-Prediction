@@ -1,5 +1,6 @@
 # Hit-Song-Prediction
-![image](https://github.com/Srinath-13/Hit-Song-Prediction/assets/79263421/7af2a8a2-ec42-4e5c-8a39-a8d405f13f6f)
+
+<p align="center"><img src="https://github.com/Srinath-13/Hit-Song-Prediction/assets/79263421/7af2a8a2-ec42-4e5c-8a39-a8d405f13f6f"></p>
 
 Hit Song Science uses machine learning tools to predict a song's success before publication. Hit 
 Song Science may help artists and producers understand their audience and write songs that will 
